@@ -2,9 +2,9 @@
   <footer>
         <p>Todos los derechos reservados - 2022</p>
         <div class="redes">
-            <a href="#"><i class="fa-brands fa-youtube"></i></a>
-            <a href="#"><i class="fa-brands fa-facebook"></i></a>
-            <a href="#"><i class="fa-brands fa-instagram-square"></i></a>
+            <a href="https://www.linkedin.com/in/juan-jos%C3%A9-jara-%C3%A1lvarez-a3a7731b4/"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="https://github.com/juanj72"><i class="fa-brands fa-github"></i></a>
+            <a href="https://www.instagram.com/juanjara1078/"><i class="fa-brands fa-instagram-square"></i></a>
         </div>
 
     </footer>

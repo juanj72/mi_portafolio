@@ -17,7 +17,7 @@ Me motiva el constante deseo de aprender nuevas tecnologías.</p>
 <h2>Cuando no soy <span>Desarrollador</span> </h2>
 <p>En mis tiempos libres me gusta tocar la guitarra, escribir, jugar video juegos, pasar tiempo con mi familia, y sobre todo aventurarme a nuevos retos interpersonales</p>
            
-            <a href="#">Descargar CV</a>
+            <a href="./public/src/assets/soy.jpg" download="soy.jpg">Descargar CV</a>
         </div>
     </section>
 

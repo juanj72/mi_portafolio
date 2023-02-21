@@ -8,7 +8,8 @@
                 <img src="../assets/proyecto1.png" alt="">
                 <div class="info">
                     <h4>Pagina web HTML, CSS,JavaScript</h4>
-                    <p>pagina web estatica informatica para la entidad hotelera Restrepo Plaza Hotel <span>www.restrepoplaza.com.co</span></p>
+                    <p>pagina web estatica informatica para la entidad hotelera Restrepo Plaza Hotel </p>
+                    <a href="https://www.restrepoplaza.com.co/" target="_blank">Demo aqui</a>
                 </div>
             </div>
             <div class="proyecto">
@@ -16,7 +17,8 @@
                 <img src="../assets/proyecto2.png" alt="">
                 <div class="info">
                     <h4>Pagina web, HTML, CSS, Javascript</h4>
-                    <p>pagina web estatica informativa para la empresa Sales del llano S.A.  <span>www.salesupin.com.co</span></p>
+                    <p>pagina web estatica informativa para la empresa Sales del llano S.A.  </p>
+                    <a href="https://salesupin.com.co/" target="_blank">Demo aqui</a>
                 </div>
             </div>
             <div class="proyecto">
