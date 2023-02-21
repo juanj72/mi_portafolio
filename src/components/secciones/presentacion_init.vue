@@ -29,7 +29,7 @@ export default{
 
 <style scoped>
  #inicio {
-            background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("/src/assets/dev-1.webp");
+            background: linear-gradient( rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url("/src/assets/wallp.jpg");
             background-size: cover;
             background-position: center center;
             height: 100vh;
