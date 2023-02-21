@@ -1,4 +1,5 @@
 <template>
+    
 
     <section id="sobremi">
         <div class="contenedor-foto">
