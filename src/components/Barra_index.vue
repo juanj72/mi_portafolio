@@ -9,7 +9,7 @@
                         <ul id="links">
                             <li><a href="#" class="seleccionado" onclick="seleccionar(this)">INICIO</a></li>
                             <li><a href="#sobremi" onclick="seleccionar(this)">SOBRE MI</a></li>
-                            <li><a href="#skills" onclick="seleccionar(this)">HABILIDADES BASICAS</a></li>
+                            <li><a href="#skills" onclick="seleccionar(this)">HABILIDADES</a></li>
                             <li><a href="#proyectos" onclick="seleccionar(this)">PORTAFOLIO</a></li>
                             <li><a href="#contacto" onclick="seleccionar(this)">CONTACTO</a></li>
                         </ul>
